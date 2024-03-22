@@ -1,0 +1,25 @@
+body
+{
+        .main{
+            width: 1000px;
+            height: 540px;
+            background-color:brown;
+
+        }
+        .row1{
+            width: 1000px;
+            height: 100px;
+           background: red; 
+           text-align: center;
+           font-size: 50px;
+           font-style: bold;
+             
+        }
+        .row2{
+            
+            width: 1000px;
+            height: 40px;
+           background:yellow;
+
+        }
+    }
